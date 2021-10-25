@@ -8,6 +8,7 @@
 
 ### Métodos:
 <p> Neste projeto foram utilizadas as tecnologias Docker, Airflow, MINIO, Streamlit, PYCARET, Python e MySQL.  </p>
+![Figura - 1]()
 
 #### A - Etapa de instalação e configuração
 1.  Criação do Docker;
